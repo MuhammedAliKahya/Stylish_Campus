@@ -17,7 +17,7 @@ Geleneksel ikinci el platformlarında karşılaşılan **yüksek kargo ücretler
 *   **Sadece Öğrenciler:** Yalnızca `.edu.tr` uzantılı kurumsal e-posta adresine sahip üniversite mensupları platforma katılabilir.
 *   **Sıfır Maliyet (Kargo ve Komisyon Yok):** Alışverişler tamamen elden teslim (meetup) yöntemiyle, kampüs içindeki belirli ortak noktalarda gerçekleştirilir.
 *   **Sürdürülebilirlik:** Kampüs içi döngüsel ekonomiyi destekleyerek tüketim çılgınlığını azaltmayı ve öğrenci bütçesine katkı sağlamayı hedefler.
-*   **Sunucu Bağımsız Hızlı Deneyim:** Gelişmiş veri erişim katmanı sayesinde tüm işlemler tarayıcıda simüle edilir; kurulum ve test aşamalarında harici bir veritabanı veya sunucu gerektirmez.
+*   **Sunucu Bağımsız Hızlı Deneyim:** Web sitesi test aşamasında olduğu için tüm işlemler tarayıcıda simüle edilir; kurulum ve test aşamalarında harici bir veritabanı veya sunucu gerektirmez.
 
 ---
 
